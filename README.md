@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Developer+Full+Stack;Java+%7C+SpringBoot+%7C+TS+%7C+React;Entusiasta+em+Programa%C3%A7%C3%A3o+Competitiva;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Developer+Full+Stack;Java+%7C+SpringBoot+%7C+TS+%7C+React;Programa%C3%A7%C3%A3o+competitiva;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 </div>
 
 ---
@@ -33,7 +33,7 @@ Software Developer Full Stack | Back-End | Java | SpringBoot | SQL | JavaScript 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sxmvel&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas Gerais do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sxmvel&show_icons=true&theme=dracula" alt="Estatísticas Gerais do GitHub"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmvel&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"/>
 </div>
