@@ -29,13 +29,17 @@ Software Developer Full Stack | Back-End | Java | SpringBoot | SQL | JavaScript 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
 </div>
 
+---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sxmvel&show_icons=true&theme=dracula" alt="Estatísticas Gerais"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmvel&layout=compact&langs_count=7&theme=dracula" alt="Linguagens"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmvel&layout=compact&langs_count=7&theme=dracula&hide=c%2B%2B" alt="Linguagens"/>
 </div>
+
+---
 
 ### 🐍 Jogo da Cobrinha
 
