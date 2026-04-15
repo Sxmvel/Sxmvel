@@ -60,3 +60,9 @@ Software Developer Full Stack | Back-End | Java | SpringBoot | SQL | JavaScript 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sxmvel&show_icons=true&theme=dracula" alt="Estatísticas Gerais"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmvel&layout=compact&langs_count=7&theme=dracula" alt="Linguagens"/>
 </div>
+
+### 🐍 Jogo da Cobrinha
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sxmvel/Sxmvel/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
