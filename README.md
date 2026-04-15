@@ -6,10 +6,11 @@
 
 ### 👨‍💻 Sobre mim
 
+- 🎓 Graduando em **Sistemas de Informação (5º Período)** no IFMG - Campus Ouro Branco.
 - 🔭 Atualmente construindo soluções Full Stack eficientes, unindo arquiteturas robustas no Back-End e interfaces dinâmicas.
 - 🌱 Aprofundando estudos em algoritmos avançados, otimização de dados e arquitetura de sistemas.
 - 🏆 Participante ativo de Maratonas de Programação e competições de lógica.
-- ⚡ **Curiosidade:** Quando não estou codando ou automatizando tarefas rotineiras, estou provavelmente mexendo na mecânica ou estética automotiva do meu carro.
+- ⚡ **Curiosidade:** Quando não estou codando ou automatizando tarefas rotineiras, estou provavelmente mexendo na estética automotiva do meu carro ou treinando boxe.
 
 ---
 
@@ -30,10 +31,32 @@ Software Developer Full Stack | Back-End | Java | SpringBoot | SQL | JavaScript 
 
 ---
 
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[Maratona IFMG](https://github.com/Sxmvel/Maratona-Programacao-IFMG)** | Site desenvolvido para a maratona de programação do IFMG. | `HTML`, `CSS`, `JS` |
+| **[Estudos Java](https://github.com/Sxmvel/Estudos-java)** | Repositório focado em algoritmos de maratona e fundamentos de Java. | `Java` |
+| **[VK Rounds](https://github.com/Sxmvel/vk-rounds)** | Gerador de rounds customizados para treinos de academia de boxe. | `JavaScript`, `React` |
+
+---
+
+### 📫 Como me encontrar
+
+<div align="left">
+  <a href="mailto:samuelres444@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-res/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sxmvel&show_icons=true&theme=dracula" alt="Estatísticas Gerais do GitHub"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmvel&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sxmvel&show_icons=true&theme=dracula" alt="Estatísticas Gerais"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmvel&layout=compact&langs_count=7&theme=dracula" alt="Linguagens"/>
 </div>
