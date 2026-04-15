@@ -29,30 +29,6 @@ Software Developer Full Stack | Back-End | Java | SpringBoot | SQL | JavaScript 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
 </div>
 
----
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[Maratona IFMG](https://github.com/Sxmvel/Maratona-Programacao-IFMG)** | Site desenvolvido para a maratona de programação do IFMG. | `HTML`, `CSS`, `JS` |
-| **[Estudos Java](https://github.com/Sxmvel/Estudos-java)** | Repositório focado em algoritmos de maratona e fundamentos de Java. | `Java` |
-| **[VK Rounds](https://github.com/Sxmvel/vk-rounds)** | Gerador de rounds customizados para treinos de academia de boxe. | `JavaScript`, `React` |
-
----
-
-### 📫 Como me encontrar
-
-<div align="left">
-  <a href="mailto:samuelres444@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-res/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
 
 ### 📊 Estatísticas do GitHub
 
