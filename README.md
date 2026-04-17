@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Developer+Full+Stack;Java+%7C+SpringBoot+%7C+TS+%7C+React;Programa%C3%A7%C3%A3o+competitiva;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sxmvel&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="Contador de Visualizações" />
+</div>
+
 ---
 
 ### 👨‍💻 Sobre mim
@@ -21,12 +25,9 @@ Software Developer Full Stack | Back-End | Java | SpringBoot | SQL | JavaScript 
 <br/>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot Badge"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,ts,react" alt="Skill Icons"/>
+  </a>
 </div>
 
 ---
