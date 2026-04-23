@@ -35,8 +35,6 @@ Software Developer Full Stack | Back-End | Java | SpringBoot | SQL | JavaScript 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sxmvel&show_icons=true&theme=dracula" alt="Estatísticas Gerais"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmvel&layout=compact&langs_count=7&theme=dracula&hide=c%2B%2B" alt="Linguagens"/>
 </div>
 
