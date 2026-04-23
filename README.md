@@ -26,16 +26,17 @@ Software Developer Full Stack | Back-End | Java | SpringBoot | SQL | JavaScript 
 
 ### 📊 Dashboard de Estatísticas
 
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics"/>
-</div>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,ts,react" alt="Skill Icons"/>
+  </a>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Dashboard de Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmvel&layout=compact&langs_count=7&theme=dracula&hide=c%2B%2B" alt="Linguagens"/>
+  <img src="github-metrics.svg" alt="GitHub Metrics"/>
 </div>
 
 ---
