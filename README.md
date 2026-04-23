@@ -24,10 +24,10 @@ Software Developer Full Stack | Back-End | Java | SpringBoot | SQL | JavaScript 
 
 <br/>
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,ts,react" alt="Skill Icons"/>
-  </a>
+### 📊 Dashboard de Estatísticas
+
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics"/>
 </div>
 
 ---
