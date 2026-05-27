@@ -14,7 +14,7 @@
 - 🔭 Atualmente construindo soluções Full Stack eficientes, unindo arquiteturas robustas no Back-End e interfaces dinâmicas.
 - 🌱 Aprofundando estudos em algoritmos avançados, otimização de dados e arquitetura de sistemas.
 - 🏆 Participante ativo de Maratonas de Programação e competições de lógica.
-- ⚡ **Curiosidade:** Quando não estou codando ou automatizando tarefas rotineiras, estou provavelmente mexendo na estética automotiva do meu carro ou treinando boxe.
+
 
 ---
 
